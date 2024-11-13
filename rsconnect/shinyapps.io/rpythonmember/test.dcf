@@ -1,0 +1,13 @@
+name: test
+title: test
+username: rpythonmember
+account: rpythonmember
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13323975
+bundleId: 9356291
+url: https://rpythonmember.shinyapps.io/test/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|renv.lock
